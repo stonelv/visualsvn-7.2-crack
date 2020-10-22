@@ -1,7 +1,6 @@
 # visualsvn-7.2-crack
 
-Thanks to royzhao7
-This is the Version 7.2 For Visual Studio 2019.
+## This is the crack file of VisualSvn plugin Version 7.2 For Visual Studio 2019. 
 
 Don not use them for commercial purpose!
 
